@@ -19,7 +19,7 @@
 		"cors": "^2.8.1"
 	},
 	"engines": {
-		"node": "4.4.5"
+		"node": "12.18.2"
 	},
 	"repository": {
 		"type": "git",
